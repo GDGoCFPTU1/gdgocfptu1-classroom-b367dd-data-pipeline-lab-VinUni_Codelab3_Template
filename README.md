@@ -3,6 +3,8 @@
 **Author**: Võ Tự Đức (VinUni AI Lab)
 **Topic**: Data Pipeline Engineering - Unstructured Data Orchestration
 
+
+
 ## Overview
 In this lab, you will act as a 4-person Data Engineering team. Your goal is to ingest messy, unstructured data from two different sources (PDFs and Videos), normalize it, and unify it into a single, high-quality Knowledge Base for an AI Agent.
 
